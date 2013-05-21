@@ -1,0 +1,37 @@
+README ************************************************************************************************************************
+*******************************************************************************************************************************
+PASOS PARA INICIAR EL SISTEMA**************************************************************************************************
+*******************************************************************************************************************************
+
+1. Posicionarse en la raíz, todos los archivos que están fuera de las carpetas son parte del motor "tesseract - OCR" y 
+no deben ser movidos. El archivo Reconocimiento.py es el único que no es parte del motor de reconocimiento de caracteres
+y es el archivo principal para iniciar el programa. Puede correr el archivo mediante el siguiente comando en terminal:
+
+$python Reconocimiento.py
+
+2. Al aparecer la ventana que inicia la cámara web puede capturar la imagen presionando la tecla "backspace",
+colocando primero adecuadamente el documento (hoja) con el texto a reconocer frente a la cámara web.
+
+3. Lo siguiente es cortar la imagen obtenida por medio del mouse para recuperar solo el área de interés.
+Al final de cortar la imagen presiona la tecla "ENTER".
+
+4. Obtendrá usted la imagen cortada que realizó en el paso anterior, de nuevamente "ENTER" y el sistema le arrojará
+un documento Gedit con la salida de los caracteres reconocidos
+
+5. Todas las imágenes obtenidas y el archivo de texto de salida es guardado en el directorio raíz.
+
+********************************************************************************************************************************
+QUE DISFRUTE EL PROGRAMA *******************************************************************************************************
+********************************************************************************************************************************
+
+En la raíz existen diversas carpetas con las pruebas de ejecución para documentos de tamaño de texto 5, 10, 15 y 20
+
+*En la carpete "DataGraph" se encuentra el gráfico de comparación de aciertos errores entre las distintas pruebas.
+*En la carpeta "images" se encuentran las imágenes de entrada e imágenes procesadas de las distintas pruebas.
+*En la carpeta "txtOut" se encuentran los archivos de texto de salida con los caracteres reconocidos de cada una de las pruebas.
+*En la carpeta "tessdata" se encuentran los archivos de configuración del lenguaje del reconocimiento, esa carpeta es parte
+del motor de reconocimiento "tesseract - OCR"
+
+********************************************************************************************************************************* 
+FIN DEL DOCUMENTO ***************************************************************************************************************
+*********************************************************************************************************************************
