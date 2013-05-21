@@ -1,0 +1,15 @@
+Ligas:
+
+http://pythonya.appspot.com/detalleconcepto?deta=Creaci%C3%B3n,%20carga%20y%20lectura%20de%20archivos%20de%20texto
+
+http://extr3metech.wordpress.com/2012/09/23/convert-photo-to-grayscale-with-python-opencv/
+
+http://stackoverflow.com/questions/7624765/converting-an-opencv-image-to-black-and-white
+
+http://stackoverflow.com/questions/2462725/cv-saveimage-in-opencv
+
+
+
+
+Formato: Universidad Europea de Madrid, [Web en línea]. <>.http://www.uem.es>. [Consulta: 10-7-2002]
+
