@@ -24,7 +24,7 @@ un documento Gedit con la salida de los caracteres reconocidos
 QUE DISFRUTE EL PROGRAMA *******************************************************************************************************
 ********************************************************************************************************************************
 
-En la raíz existen diversas carpetas con las pruebas de ejecución para documentos de tamaño de texto 5, 10, 15 y 20
+En la raíz existen diversos archivos(salidaTest) con las pruebas de ejecución para documentos de tamaño de texto 5, 10, 15 y 20
 
 *Los archivos de salida corresponden a los nombrados salidaTest.
 *El archivo SuccessesErrors.dat corresponde al archivo que contiene los aciertos y errores del algoritmo de reconocimiento
