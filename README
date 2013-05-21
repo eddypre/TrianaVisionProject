@@ -26,11 +26,8 @@ QUE DISFRUTE EL PROGRAMA *******************************************************
 
 En la raíz existen diversas carpetas con las pruebas de ejecución para documentos de tamaño de texto 5, 10, 15 y 20
 
-*En la carpete "DataGraph" se encuentra el gráfico de comparación de aciertos errores entre las distintas pruebas.
-*En la carpeta "images" se encuentran las imágenes de entrada e imágenes procesadas de las distintas pruebas.
-*En la carpeta "txtOut" se encuentran los archivos de texto de salida con los caracteres reconocidos de cada una de las pruebas.
-*En la carpeta "tessdata" se encuentran los archivos de configuración del lenguaje del reconocimiento, esa carpeta es parte
-del motor de reconocimiento "tesseract - OCR"
+*Los archivos de salida corresponden a los nombrados salidaTest.
+*El archivo SuccessesErrors.dat corresponde al archivo que contiene los aciertos y errores del algoritmo de reconocimiento
 
 ********************************************************************************************************************************* 
 FIN DEL DOCUMENTO ***************************************************************************************************************
